@@ -1,0 +1,310 @@
+# Translation of Themes - tdMacro in Russian
+# This file is distributed under the same license as the Themes - tdMacro package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-03-18 21:42:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - tdMacro\n"
+
+#. Description of the plugin/theme
+msgid "tdMacro is a clean, modern and sophisticated masonry grid style WordPress theme made for any type of bloggers. This theme is fully responsive which allows your site to adapt to different screen sizes. Theme comes with a strong focus on typography and minimalistic design. Most importantly, tdMacro is easy to set up and manage."
+msgstr "tdMacro - чистый, современный и изысканный стиль с сеткой (masonry). Эта WordPress тема сделана для любого типа блоггеров. Еще полностью отзывчива и адаптируется к различным размерам экрана. Тема поставляется с сильным акцентом на типографике и минималистичном дизайне. Самое главное, что tdMacro легко настраивается и управляется."
+
+#. Theme Name of the plugin/theme
+msgid "tdMacro"
+msgstr "tdMacro"
+
+#: inc/help/getting-started-class.php:112
+msgid "This help file feed seems to be temporarily unavailable but you can always view it on Themes Harbor website."
+msgstr "Эта справка помощи временно недоступна, но вы всегда можете посмотреть справку на сайте тем Harbor."
+
+#: inc/help/getting-started-class.php:138
+msgid "Thank you for using %s!"
+msgstr "Спасибо за использование %s!"
+
+#: inc/help/getting-started-class.php:132
+msgid "If you have a customization question, please post it on WordPress.org %s forum."
+msgstr "Если у вас есть вопрос по настройкам, пожалуйста, напишите его на WordPress.org  %s форуме."
+
+#: inc/help/getting-started-class.php:131
+msgid "If you have a general question related to WordPress, please post it on WordPress.org %s forum."
+msgstr "Если у вас есть общий вопрос, связанный с WordPress, пожалуйста, обратитесь на WordPress.org %s форум."
+
+#: inc/help/getting-started-class.php:127
+msgid "contact form"
+msgstr "контактная форма"
+
+#: inc/help/getting-started-class.php:126
+msgid "Themes and Templates"
+msgstr "Темы и шаблоны"
+
+#: inc/help/getting-started-class.php:122
+msgid "We have collected some resources that you may find helpful:"
+msgstr "Мы собрали некоторые ресурсы, которые могут оказаться полезными:"
+
+#: inc/help/getting-started-class.php:121
+msgid "Looking for help?"
+msgstr "Нужна помощь?"
+
+#: inc/help/getting-started-class.php:83
+msgid "Version:"
+msgstr "Версия:"
+
+#: inc/help/getting-started-class.php:82
+msgid "Author:"
+msgstr "Автор:"
+
+#: inc/help/getting-started-class.php:78
+msgid "Getting Started with %s theme."
+msgstr "Начало работы с %s темой."
+
+#: inc/help/getting-started-class.php:36
+msgid "Getting Started"
+msgstr "Начало работы"
+
+#: inc/customizer.php:146
+msgid "Manual excerpt"
+msgstr "Ручной отрывок"
+
+#: inc/customizer.php:145
+msgid "Automatic excerpt"
+msgstr "Автоматический отрывок"
+
+#: inc/customizer.php:142
+msgid "Post Excerpts"
+msgstr "Отрывок записи"
+
+#: inc/customizer.php:129
+msgid "Hide Content"
+msgstr "Скрыть содержимое"
+
+#: inc/customizer.php:128
+msgid "Show Content"
+msgstr "Показать содержимое"
+
+#: functions.php:111
+msgid "Appears in the footer section of the site."
+msgstr "Появляется в нижнем колонтитуле сайта."
+
+#: functions.php:101
+msgid "Appears in the sidebar section of the site."
+msgstr "Появляется в разделе боковой панели сайта."
+
+#: 404.php:19
+msgid "It looks like nothing was found at this location. Maybe try a search?"
+msgstr "Похоже, ничего не было найдено в этом месте. Может быть, попробовать поиск?"
+
+#: 404.php:14
+msgid "404"
+msgstr "404"
+
+#: search.php:18
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#: inc/template-tags.php:140
+msgid "Posted by "
+msgstr "Автор:  "
+
+#: inc/template-tags.php:123 inc/template-tags.php:143
+msgid "View all posts by %s"
+msgstr "Посмотреть все записи автора %s"
+
+#: inc/template-tags.php:120
+msgid "By "
+msgstr "Автор:"
+
+#: inc/template-tags.php:53
+msgid "<span class=\"human-date\">%1$s</span> <span class=\"regular-date\">%2$s</span>"
+msgstr "<span class=\"human-date\">%1$s</span> <span class=\"regular-date\">%2$s</span>"
+
+#: inc/template-tags.php:50
+msgid "ago"
+msgstr "назад"
+
+#: inc/template-tags.php:47
+msgid "Posted"
+msgstr "Опубликовано"
+
+#: inc/template-tags.php:27
+msgid "Next Article"
+msgstr "Следующая статья"
+
+#: inc/template-tags.php:26
+msgid "Previous Article"
+msgstr "Предыдущая статья"
+
+#: inc/template-tags.php:24
+msgid "Post navigation"
+msgstr "Навигация по записям"
+
+#: template-parts/author-section.php:16
+msgid "About"
+msgstr "Информация"
+
+#: inc/extras.php:87
+msgid "Page %s"
+msgstr "Страница %s"
+
+#: inc/customizer.php:125
+msgid "Post with a Featured Image"
+msgstr "Публикуйте с избранным изображением"
+
+#: inc/customizer.php:113
+msgid "Theme Options"
+msgstr "Параметры темы"
+
+#: inc/customizer.php:103
+msgid "Footer Secondary Text Color"
+msgstr "Вторичный цвет текста подвала сайта"
+
+#: inc/customizer.php:90
+msgid "Footer Primary Text Color"
+msgstr "Основной цвет текста подвала сайта"
+
+#: inc/customizer.php:77
+msgid "Footer Background Color"
+msgstr "Цвет фона подвала сайта"
+
+#: inc/customizer.php:64
+msgid "Menu Text Color"
+msgstr "Цвет текста меню"
+
+#: inc/customizer.php:51
+msgid "Menu Background Color"
+msgstr "Цвет фона меню"
+
+#: inc/customizer.php:38
+msgid "Header Background Color"
+msgstr "Цвет фона шапки"
+
+#: inc/customizer.php:25
+msgid "Accent Color"
+msgstr "Цвет выделения"
+
+#: header.php:44
+msgid "Navigation"
+msgstr "Навигация"
+
+#. Translators: If there are characters in your language that are not supported
+#. by Source Sans Pro, translate this to 'off'. Do not translate into your own
+#. language.
+#: functions.php:130
+msgctxt "Source Sans Pro: on or off"
+msgid "on"
+msgstr "on"
+
+#: functions.php:109
+msgid "Footer"
+msgstr "Подвал"
+
+#: functions.php:99
+msgid "Sidebar"
+msgstr "Боковая колонка"
+
+#: functions.php:48
+msgid "Social Menu"
+msgstr "Меню социальных ссылок"
+
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Основное меню"
+
+#: footer.php:27
+msgid "Theme: %1$s by %2$s"
+msgstr "Тема: %1$s от %2$s"
+
+#: footer.php:25
+msgid "Proudly powered by %s"
+msgstr "Сайт работает на %s"
+
+#: footer.php:25
+msgid "https://wordpress.org/"
+msgstr "https://ru.wordpress.org/"
+
+#: functions.php:178 template-parts/content.php:20
+msgid "Read More"
+msgstr "Читать далее"
+
+#: template-parts/content-footer.php:17 template-parts/content-single.php:26
+msgid "%"
+msgstr "%"
+
+#: template-parts/content-footer.php:17 template-parts/content-single.php:26
+msgid "1"
+msgstr "1"
+
+#: template-parts/content-footer.php:17 template-parts/content-single.php:26
+msgid "0"
+msgstr "0"
+
+#: template-parts/content-page.php:21 template-parts/content-single.php:45
+#: template-parts/content.php:24
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: template-parts/content-none.php:28
+msgid "It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps searching can help."
+msgstr "Запрошенную информацию найти не удалось. Возможно, будет полезен поиск по сайту."
+
+#: template-parts/content-none.php:22
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr "Извините, по вашему запросу ничего не найдено. Попробуйте другие ключевые слова."
+
+#: template-parts/content-none.php:18
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы опубликовать свою первую запись? <a href=\"%1$s\">Начните отсюда</a>."
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr "Ничего не найдено"
+
+#: template-parts/content-attachment.php:21 template-parts/content-page.php:30
+#: template-parts/content-single.php:35
+msgid "Edit"
+msgstr "Изменить"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:40 comments.php:58
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+#: comments.php:39 comments.php:57
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+#: comments.php:37 comments.php:55
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+#: comments.php:29
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "1 комментарий"
+msgstr[1] "%1$s комментария"
+msgstr[2] "%1$s комментариев"
+
+#: 404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ой! Страница не найдена."
+
+#. Author URI of the plugin/theme
+msgid "http://themesharbor.com"
+msgstr "http://themesharbor.com"
+
+#. Author of the plugin/theme
+msgid "Themes Harbor"
+msgstr "Themes Harbor"
+
+#. Theme URI of the plugin/theme
+msgid "http://demo.themesharbor.com/tdmacro/"
+msgstr "http://demo.themesharbor.com/tdmacro/"

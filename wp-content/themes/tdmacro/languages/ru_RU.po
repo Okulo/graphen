@@ -1,0 +1,410 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: tdMacro v1.0.4\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2014-12-09 20:50+0300\n"
+"Last-Translator: Игорь <dybabiz@ya.ru>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: Poedit 1.6.2\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;"
+"_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2\n"
+"X-Poedit-Basepath: ../\n"
+"X-Textdomain-Support: yes\n"
+"Language: ru\n"
+"X-Poedit-SearchPath-0: .\n"
+
+# @ tdmacro
+#: 404.php:17
+msgid "Oops! That page can&rsquo;t be found."
+msgstr "Ошибка 404. Страница не найдена"
+
+# @ tdmacro
+#: 404.php:21
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr "По данному адресу ничего не найдено. Воспользуйтесь поиском."
+
+# @ tdmacro
+#: archive.php:29
+#, php-format
+msgid "Author: %s"
+msgstr "Автор: %s"
+
+# @ tdmacro
+#: archive.php:32
+#, php-format
+msgid "Day: %s"
+msgstr "День: %s"
+
+# @ tdmacro
+#: archive.php:35
+#, php-format
+msgid "Month: %s"
+msgstr "Месяц: %s"
+
+# @ tdmacro
+#: archive.php:35
+msgctxt "monthly archives date format"
+msgid "F Y"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:38
+#, php-format
+msgid "Year: %s"
+msgstr "Год: %s"
+
+# @ tdmacro
+#: archive.php:38
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:41
+msgid "Asides"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:44
+msgid "Galleries"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:47
+msgid "Images"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:50
+msgid "Videos"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:53
+msgid "Quotes"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:56
+msgid "Links"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:59
+msgid "Statuses"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:62
+msgid "Audios"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:65
+msgid "Chats"
+msgstr ""
+
+# @ tdmacro
+#: archive.php:68 sidebar.php:16
+msgid "Archives"
+msgstr "Архивы"
+
+# @ tdmacro
+#: comments.php:28
+#, php-format
+msgctxt "comments title"
+msgid "One comment"
+msgid_plural "%1$s comments"
+msgstr[0] "Один комментарий"
+msgstr[1] "%1$s комментарии"
+
+# @ tdmacro
+#: comments.php:35 comments.php:52
+msgid "Comment navigation"
+msgstr "Навигация по комментариям"
+
+# @ tdmacro
+#: comments.php:36 comments.php:53
+msgid "&larr; Older Comments"
+msgstr "&larr; Предыдущие комментарии"
+
+# @ tdmacro
+#: comments.php:37 comments.php:54
+msgid "Newer Comments &rarr;"
+msgstr "Следующие комментарии &rarr;"
+
+# @ tdmacro
+#: comments.php:64
+msgid "Comments are closed."
+msgstr "Обсуждение закрыто"
+
+# @ tdmacro
+#: content-attachment.php:16
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+msgstr ""
+"Опубликовано <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\" pubdate>%2$s</time></span> - <a href=\"%3$s\" title=\"Link to full-"
+"size image\">%4$s &times; %5$s</a> - <a href=\"%6$s\" title=\"Return to %7$s"
+"\" rel=\"gallery\">%7$s</a>"
+
+# @ tdmacro
+#: content-attachment.php:26 content-page.php:24 content-single.php:31
+msgid "Edit"
+msgstr "Изменить"
+
+# @ tdmacro
+#: content-none.php:10
+msgid "Nothing Found"
+msgstr "Страница не найдена"
+
+# @ tdmacro
+#: content-none.php:16
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr "Готовы написать первую запись? <a href=\"%s\">Начать здесь</a>."
+
+# @ tdmacro
+#: content-none.php:20
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr "К сожалению, по вашему запросу ничего не найдено."
+
+# @ tdmacro
+#: content-none.php:25
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+"Кажется, мы можем найти то, что  вы ищете. Возможно, поиск может помочь."
+
+# @ tdmacro
+#: content-page.php:17 content-single.php:40 content.php:42
+msgid "Pages:"
+msgstr "Страницы: "
+
+# @ tdmacro
+#: content-search.php:44 content-single.php:22 content.php:57
+msgid "0"
+msgstr ""
+
+# @ tdmacro
+#: content-search.php:44 content-single.php:22 content.php:57
+msgid "1"
+msgstr ""
+
+# @ tdmacro
+#: content-search.php:44 content-single.php:22 content.php:57
+msgid "%"
+msgstr ""
+
+# @ tdmacro
+#: content.php:37 functions.php:156
+msgid "Read More"
+msgstr "Подробнее"
+
+# @ tdmacro
+#: functions.php:47
+msgid "Primary Menu"
+msgstr "Главное меню"
+
+# @ tdmacro
+#: functions.php:48
+msgid "Social Menu"
+msgstr ""
+
+# @ tdmacro
+#: functions.php:82
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+# @ tdmacro
+#: functions.php:92
+msgid "Footer"
+msgstr "Подвал"
+
+# @ tdmacro
+#: functions.php:109
+msgctxt "Source Sans Pro: on or off"
+msgid "on"
+msgstr ""
+
+# @ tdmacro
+#: header.php:43
+msgid "Navigation"
+msgstr "Навигация"
+
+# @ tdmacro
+#: inc/customizer.php:20
+msgid "Custom Logo"
+msgstr "Логотип"
+
+# @ tdmacro
+#: inc/customizer.php:32
+msgid "Accent Color"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:45
+msgid "Header Background Color"
+msgstr "Цвет фона заголовка"
+
+# @ tdmacro
+#: inc/customizer.php:58
+msgid "Menu Background Color"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:71
+msgid "Menu Text Color"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:84
+msgid "Footer Background Color"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:97
+msgid "Footer Primary Text Color"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:110
+msgid "Footer Secondary Text Color"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:120
+msgid "Theme Options"
+msgstr "Опции темы"
+
+# @ tdmacro
+#: inc/customizer.php:132
+msgid "Post with Featured Image"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:135
+msgid "Show Post Content"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:136
+msgid "Hide Post Content"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:149
+msgid "Auto Post Summary"
+msgstr ""
+
+# @ tdmacro
+#: inc/customizer.php:152
+msgid "On"
+msgstr "Вкл"
+
+# @ tdmacro
+#: inc/customizer.php:153
+msgid "Off"
+msgstr "Выкл"
+
+# @ tdmacro
+#: inc/extras.php:82
+#, php-format
+msgid "Page %s"
+msgstr "Страница %s"
+
+# @ tdmacro
+#: inc/extras.php:163
+msgid "About"
+msgstr "От"
+
+# @ tdmacro
+#: inc/template-tags.php:21
+msgid "Posts navigation"
+msgstr "Записи нвигация"
+
+# @ tdmacro
+#: inc/template-tags.php:26
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> Предыдущие записи"
+
+# @ tdmacro
+#: inc/template-tags.php:30
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Следующие записи <span class=\"meta-nav\">&rarr;</span>"
+
+# @ tdmacro
+#: inc/template-tags.php:54
+msgid "Post navigation"
+msgstr "Запись навигация"
+
+# @ tdmacro
+#: inc/template-tags.php:56
+msgid "Previous Article"
+msgstr "Назад"
+
+# @ tdmacro
+#: inc/template-tags.php:57
+msgid "Next Article"
+msgstr "Вперед"
+
+# @ tdmacro
+#: inc/template-tags.php:77
+msgid "Posted"
+msgstr " "
+
+# @ tdmacro
+#: inc/template-tags.php:80
+msgid "ago"
+msgstr "назад"
+
+# @ tdmacro
+#: inc/template-tags.php:83
+#, php-format
+msgid ""
+"<span class=\"human-date\">%1$s</span> <span class=\"regular-date\">%2$s</"
+"span>"
+msgstr ""
+
+# @ tdmacro
+#: inc/template-tags.php:150
+msgid "By "
+msgstr "От "
+
+# @ tdmacro
+#: inc/template-tags.php:153 inc/template-tags.php:173
+#, php-format
+msgid "View all posts by %s"
+msgstr "Показать все записи %s"
+
+# @ tdmacro
+#: inc/template-tags.php:170
+msgid "Posted by "
+msgstr "Опубликовал "
+
+# @ tdmacro
+#: search.php:18
+#, php-format
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+# @ tdmacro
+#: sidebar.php:23
+msgid "Meta"
+msgstr ""
